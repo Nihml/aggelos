@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+<title>Minecraft news
+</title>
+</head>
+<style>
+<heafer>
+<h1> Minecraft News </h1>
+<a href="news.html" News about Minecraft updates </a>
+<a href="https://www.minecraft.net/en-us" title="this is Minecraft"> Minecraft Official Site </a>
+
+
+
+
+
+
+</header>
+
+
+
+
+
+
+</body>
+</html>
